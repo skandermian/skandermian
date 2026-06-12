@@ -13,7 +13,7 @@ I'm a First-Class Computer Science graduate from Manchester Metropolitan Univers
 
 My academic work includes applied machine learning projects across financial modelling and medical imaging, including predictive modelling on large-scale structured financial data and pneumonia detection using machine learning and deep learning approaches.
 
-I’m particularly interested in using AI for decision-support systems across fintech, healthcare, and other high-impact domains, with a focus on building reliable and responsible data-driven applications.
+I’m particularly interested in building reliable and responsible AI-driven systems across fintech, healthcare, and other high-impact domains, combining machine learning, data science, and software engineering principles.
 
 Recently, I completed a final-year dissertation on credit-risk prediction using machine learning and neural networks, comparing logistic regression, XGBoost, and a compact neural network on the Home Credit Default Risk dataset.
 
