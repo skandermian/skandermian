@@ -1,9 +1,14 @@
+<div align="center">
+
 # Hi, I'm Skander 👋
 
-🎓 First-Class BSc (Hons) Computer Science Graduate<br>
-🤖 Machine Learning · Data Science · Responsible AI · Software Engineering<br>
-🏦 FinTech & Healthcare AI<br>
-📍 Manchester, UK<br>
+🎓 **First-Class BSc (Hons) Computer Science Graduate**
+
+`Machine Learning` · `Data Science` · `Software Engineering`  
+`AI-Driven Software Systems` · `Responsible AI`  
+`FinTech` · `Healthcare AI`
+
+</div>
 
 ---
 
