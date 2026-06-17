@@ -69,7 +69,7 @@ Final-year dissertation project focused on predicting credit risk using machine 
 * Compared logistic regression, XGBoost, and a compact multilayer perceptron model
 * Applied missing-value handling, categorical encoding, feature engineering, stratified splitting, class-imbalance handling, and hyperparameter tuning
 * Evaluated models using accuracy, balanced accuracy, ROC-AUC, PR-AUC, precision, recall, F1-score, Brier score, and calibration analysis
-* Used SHAP analysis to explore model explainability
+* Used SHAP analysis to explore model explainability and responsible AI considerations
 * Found that XGBoost achieved the strongest ranking performance, with ROC-AUC 0.760 and PR-AUC 0.249, while also producing the lowest Brier score among the three main models
 * Calibration analysis showed that strong ranking performance did not automatically translate into reliable probability estimates, highlighting the need for careful governance before using such models in high-stakes credit decision-making
 
