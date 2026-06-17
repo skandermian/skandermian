@@ -70,8 +70,8 @@ Final-year dissertation project focused on predicting credit risk using machine 
 * Applied missing-value handling, categorical encoding, feature engineering, stratified splitting, class-imbalance handling, and hyperparameter tuning
 * Evaluated models using accuracy, balanced accuracy, ROC-AUC, PR-AUC, precision, recall, F1-score, Brier score, and calibration analysis
 * Used SHAP analysis to explore model explainability
-* Found that XGBoost achieved the strongest ranking performance, with ROC-AUC 0.760 and PR-AUC 0.249
-* Discussed responsible AI concerns including calibration, fairness, interpretability, and governance in automated lending
+* Found that XGBoost achieved the strongest ranking performance, with ROC-AUC 0.760 and PR-AUC 0.249, while also producing the lowest Brier score among the three main models
+* Calibration analysis showed that strong ranking performance did not automatically translate into reliable probability estimates, highlighting the need for careful governance before using such models in high-stakes credit decision-making
 
 **Tech Stack:** Python · pandas · NumPy · scikit-learn · XGBoost · SHAP · matplotlib · seaborn · Google Colab
 
@@ -109,7 +109,7 @@ Academic machine learning project exploring whether supervised learning could su
 
 Accepted to present **“Beyond Predictive Accuracy: Responsible AI and the Limits of Algorithmic Abundance in Automated Lending”** at MANCEPT Workshops 2026, held at the University of Manchester.
 
-The presentation develops my undergraduate dissertation research on credit-risk machine learning, focusing on responsible AI, calibration, explainability, fairness, and the limits of automated lending systems.
+The presentation builds on my undergraduate dissertation research on credit-risk machine learning, focusing on responsible AI, calibration, explainability, fairness, and the limits of automated lending systems.
 
 It connects the work to wider questions of technological abundance, sufficiency, digital finance, opacity, and power.
 
